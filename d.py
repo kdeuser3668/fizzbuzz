@@ -1,3 +1,4 @@
+# MORE EFFICIENT CODE
 # run program that prints numbers 1-100
 # multiples of 3 print fizz
 # mulitples of 5 print buzz
