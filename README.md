@@ -1,1 +1,1 @@
-this is a repository for pur FizzBuzz challenge - with three seperate branches
+this is a repository for our FizzBuzz challenge - with three seperate branches
